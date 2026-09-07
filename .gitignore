@@ -1,0 +1,7 @@
+# agent
+.commandcode/
+.claude/
+
+# ide
+.vscode/
+.upload/
