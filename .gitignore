@@ -1,6 +1,7 @@
 # agent
 .commandcode/
 .claude/
+AGENTS.md
 
 # ide
 .vscode/
